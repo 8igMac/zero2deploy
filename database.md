@@ -1,6 +1,7 @@
 # Database
 
 - RMDB: relational database.
+- Setup databse.
 - CRUD
   - R
     - basic: select from where
@@ -9,3 +10,4 @@
 - Database backup and migration.
 - SQL injection.
 - Resources: [w3cschools - sql](https://www.w3schools.com/sql/default.asp)
+- Python tool: pymysql, sqlalchemy.
