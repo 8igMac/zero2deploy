@@ -7,3 +7,4 @@ Back to basic: machine learning from zero to deploy.
 - [Data preprocessing](./data-preprocessing.md)
 - [Understand your model](./understand-your-model.md)
 - [Implement a baseline model](./implement-a-baseline-model.md)
+- [Make an API](./api.md)
