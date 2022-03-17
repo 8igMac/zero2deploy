@@ -10,3 +10,4 @@ Back to basic: machine learning from zero to deploy.
 - [Make an API](./api.md)
 - [Make a Demo Website](./demo-website.md)
 - [Dockerize Your App](./docker.md)
+- [Document Your Findings](./report.md)
