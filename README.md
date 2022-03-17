@@ -9,3 +9,4 @@ Back to basic: machine learning from zero to deploy.
 - [Implement a Baseline Model](./implement-a-baseline-model.md)
 - [Make an API](./api.md)
 - [Make a Demo Website](./demo-website.md)
+- [Dockerize Your App](./docker.md)
