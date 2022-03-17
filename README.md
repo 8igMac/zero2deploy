@@ -8,3 +8,4 @@ Back to basic: machine learning from zero to deploy.
 - [Understand your model](./understand-your-model.md)
 - [Implement a baseline model](./implement-a-baseline-model.md)
 - [Make an API](./api.md)
+- [Make a demo website](./demo-website.md)
