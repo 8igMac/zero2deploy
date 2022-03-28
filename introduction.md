@@ -1,6 +1,6 @@
 # Introduction
 
-## NLP Problem Investigation
+## 主要任務: NLP Problem Investigation
 
 1. Pick one NLP task from the list below.
 - POS tagging: noun, verb, adjective, other.
@@ -20,13 +20,20 @@
 
 3. Make a presentation slide and present your findings.
 
-## Setup a project in Github.
-We will use github to manage the project. So you need to set up
-a project in GitHub.
 
-You can checkout [this tutorial](https://www.rs-online.com/designspark/github-nvidia-cn).
+## 額外任務: Python 專案管理
 
-You also need to understand some basic git commands.
+### Virtural Environment
+去調查為什麼需要用 virtual environment (像是 venv 或是 anaconda) 來管理 python 專案。
+
+### Managing Python Dependencies
+去調查在 Python 專案裡，`requirements.txt` 是做什麼用的。
+
+### 練習在 GitHub 上建立一個 Python 專案, 要有 requirements.txt
+Git 是一個用來作版本控制的工具，也很常被用在多人協做的專案上。
+練習使用 git 可以幫至我們未來職涯跟其他人合作上更順利
+
+你需要了解的基本 git 指令:
 - `clone`
 - `add`
 - `commit`
@@ -35,12 +42,8 @@ You also need to understand some basic git commands.
 - `log`
 - `branch`
 
-## Managing Python Dependencies
-You need to provide a `requirements.txt` to store all the python package you use.
+GitHub 是一個 host 開放原始碼程式專案的地方，很多我們日常用到的套件也都是放在上面管理。
+未來畢業後找工作時可能會被問過去有無做過相關程式專案，這時如果你平常就有在累積自己的
+side project 並放在 github 上，可以增加履歷的豐富程度。
 
-When you install python packages, it is recogmended to use virtual environment.
-By doing this, the packages you downloaded will not affect the system and other project.
-
-Some common tools to achieve this are:
-- [Python's native venv](https://docs.python.org/zh-tw/3/tutorial/venv.html)
-- Anaconda/conda
+關於 Git, GitHub 的用法可以自己上網找資料或參考[這個教學](https://www.rs-online.com/designspark/github-nvidia-cn)。
