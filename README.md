@@ -7,8 +7,8 @@ Back to basic: machine learning from zero to deploy.
 這個專案會請你們用 git 來做版本控制，並把專案上傳到自己的 GitHub。
 
 - [Introduction](./introduction.md)
-- [Store Your Data: Database](./database.md)
 - [Get Your Data: Crawler](./crawler.md)
+- [Store Your Data: Database](./database.md)
 - [Data Preprocessing](./data-preprocessing.md)
 - [Understand Your Model](./understand-your-model.md)
 - [Implement a Baseline Model](./implement-a-baseline-model.md)
